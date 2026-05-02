@@ -1,7 +1,5 @@
 # Andrew — Clinical AI Engineer · Austere & Operational Medicine
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/)
-
 
 ---
 
