@@ -1,4 +1,4 @@
-# Andrew — Clinical AI Engineer · Austere & Operational Medicine
+# Andrew — Clinical AI Research · Austere & Operational Medicine
 
 
 ---
