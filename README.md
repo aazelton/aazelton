@@ -5,7 +5,7 @@
 
 ## Focus
 
-I design and deploy **AI-driven clinical decision support systems** for environments where infrastructure cannot be assumed — austere field operations, disaster response, and remote medical missions.
+I design and test **AI-driven clinical decision support systems** for environments where infrastructure cannot be assumed — austere field operations, disaster response, and remote medical missions.
 
 My work integrates **large language model inference**, **RAG-based clinical knowledge retrieval**, and **resilient edge architecture** under the constraint that degraded or absent connectivity is the operational baseline, not the exception.
 
