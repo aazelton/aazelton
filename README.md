@@ -87,12 +87,13 @@ Measured: off-grid solar power and voltage conversion · local LTE (Vodacom) and
 satellite uplink behavior · encrypted LoRa mesh endurance · GPS-tagged
 uptime and connectivity logging · complete operational cost accounting.
 
-**Mesh endurance test** — an encrypted LoRa mesh network (Meshtastic) maintained
+**Mesh endurance test** — an encrypted LoRa mesh network (Meshtastic) run
 continuously for the duration of the study: a GPS-equipped base station plus two
-T1000-E GPS tracker nodes providing persistent position tracking and off-grid
-messaging. The objective is to characterize sustained mesh operation — uptime,
-range, power draw, and tracking reliability — as a model for decentralized
-medical communications in environments without infrastructure.
+T1000-E GPS tracker nodes carried during daily movement. A deliberately simple,
+independent experiment measuring what matters first — uptime, battery drain, and
+passive position tracking under real field conditions. Long-term direction,
+beyond this study: converging mesh communications and the EdgeCDSS platform into
+fully decentralized, open-source medical communications.
 
 Findings will be published openly through AI-AMP as an operations report.
 
