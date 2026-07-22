@@ -84,8 +84,15 @@ travels on its own edge hardware and is evaluated on real-world operating
 conditions: **no patient contact, no clinical use, no facility integration.**
 
 Measured: off-grid solar power and voltage conversion · local LTE (Vodacom) and
-satellite uplink behavior · decentralized communications options · GPS-tagged
+satellite uplink behavior · encrypted LoRa mesh endurance · GPS-tagged
 uptime and connectivity logging · complete operational cost accounting.
+
+**Mesh endurance test** — an encrypted LoRa mesh network (Meshtastic) maintained
+continuously for the duration of the study: a GPS-equipped base station plus two
+T1000-E GPS tracker nodes providing persistent position tracking and off-grid
+messaging. The objective is to characterize sustained mesh operation — uptime,
+range, power draw, and tracking reliability — as a model for decentralized
+medical communications in environments without infrastructure.
 
 Findings will be published openly through AI-AMP as an operations report.
 
