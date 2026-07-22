@@ -62,13 +62,19 @@ Evaluation findings — including failures identified by external clinical
 testers — are documented and published openly:
 [evaluation reports](https://github.com/AI-in-Austere-Medicine-Project/pi-cloud-cdss/tree/main/docs).
 
-### Deployment Tiers
+### System Design — Hybrid by Default
 
-| Tier | Status | Stack |
+EdgeCDSS is one system, not separate products: a self-hosted edge server that
+uses cloud inference opportunistically and falls back to local inference when
+connectivity drops. The same hardware deploys to the field.
+
+| Component | Status | Detail |
 | --- | --- | --- |
-| Cloud | Live (beta) | FastAPI · ChromaDB · GPT-4o-mini · OpenAI Whisper/TTS · self-hosted edge server (Jetson Orin Nano) · Cloudflare Tunnel |
-| Offline | In development | Jetson Orin Nano 8GB · Ollama · 3B-class local models · zero-connectivity operation |
-| Hybrid | Planned | Opportunistic cloud sync · Iridium SBD · LoRa mesh |
+| Edge server | Live | Jetson Orin Nano 8GB, self-hosted · FastAPI · ChromaDB · Cloudflare Tunnel |
+| Cloud inference | Live (beta) | GPT-4o-mini · OpenAI Whisper/TTS — used when the link allows |
+| Local inference | In development | Ollama · 3B-class models — zero-connectivity fallback |
+| Opportunistic sync | In development | Automatic cloud/local routing on link state |
+| Field configuration | Building for Aug 2026 | Solar power · LTE (Vodacom) / satellite uplink · GPS-tagged logging |
 
 ### Field Study — Tanzania 2026
 
