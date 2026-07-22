@@ -33,7 +33,7 @@ DETERMINISTIC-FIRST PIPELINE
         │
         ▼
 RETRIEVAL (RAG)
-  ChromaDB · 7,186 chunks · 89 JTS CPGs
+  ChromaDB · 8,559 passages · 89 JTS CPGs
   source attribution on every response
         │
         ▼
