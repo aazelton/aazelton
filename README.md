@@ -6,8 +6,7 @@ language models handle only language, engineered for environments where
 infrastructure cannot be assumed. Everything is published openly, including
 what fails.
 
-[AI in Austere Medicine Project (AI-AMP)](https://github.com/AI-in-Austere-Medicine-Project) ·
-[Substack](https://aiamp.substack.com) ·
+[AI in Austere Medicine Project (AI-AMP)](https://ai-in-austere-medicine-project.github.io) ·
 [LinkedIn](https://www.linkedin.com/in/andrew-azelton)
 
 ---
