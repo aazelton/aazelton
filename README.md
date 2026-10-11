@@ -18,7 +18,7 @@ Practice Guidelines, built on a **deterministic-first architecture**: convention
 software owns every computable decision (dosing, contraindications, safety
 gates); the language model handles only genuine language understanding.
 
-**Status:** v4.3.0 in public beta · Operational field study, Tanzania, underway
+**Status:** v4.3.0 in public beta · Operational field study, Tanzania,
 August 2026
 
 
