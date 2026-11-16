@@ -27,6 +27,4 @@ Python · Bash · Ollama · llama.cpp · MLX · ChromaDB · Whisper · Vosk · P
 
 Advanced Practice Paramedic with experience in urban, austere and special operations medicine. MSc candidate in Austere Critical Care at the College of Remote and Offshore Medicine, Malta. Thesis: how clinicians with austere experience judge the reliability and limits of AI decision support.
 
-**Credentials:** NRP · LP (Texas) · FP-C · WP-C · EMS Instructor (Texas)
-**Education:** MSc Austere Critical Care (candidate), CoROM · BS Emergency Health Science, UT Health Science Center · AAS EMS, Oklahoma City Community College
-**Member:** WMS (committee) · SOMA · NAEMSE · ICAPP · WEM
+
