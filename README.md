@@ -25,9 +25,9 @@ Python · Bash · Ollama · llama.cpp · MLX · ChromaDB · Whisper · Vosk · P
 
 ## Background
 
-Advanced Practice Paramedic · MSc Candidate · Austere & Operational Medicine T
+Advanced Practice Paramedic · MSc Candidate · Austere & Operational Medicine.
 
-hesis work focused on AI implementation in austere and resource-limited environments.
+Thesis work focused on AI implementation in austere and resource-limited environments.
 
 Lead in the dirt!
 
