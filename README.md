@@ -21,7 +21,38 @@ I build and test deterministic-first clinical decision support: code owns every 
 
 ## Stack
 
-Python · Bash · Ollama · llama.cpp · MLX · ChromaDB · Whisper · Vosk · Piper · Kokoro · Ubuntu · systemd · Cloudflare Tunnel · Tailscale · WireGuard · Jetson Orin Nano · Radxa Zero 3W · Raspberry Pi
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+
+**On-device AI**
+
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
+![llama.cpp](https://img.shields.io/badge/llama.cpp-30363D?style=for-the-badge)
+![MLX](https://img.shields.io/badge/MLX-30363D?style=for-the-badge)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-30363D?style=for-the-badge)
+
+**Speech**
+
+![Whisper](https://img.shields.io/badge/Whisper-30363D?style=for-the-badge)
+![Vosk](https://img.shields.io/badge/Vosk-30363D?style=for-the-badge)
+![Piper](https://img.shields.io/badge/Piper-30363D?style=for-the-badge)
+![Kokoro](https://img.shields.io/badge/Kokoro-30363D?style=for-the-badge)
+
+**Systems and networking**
+
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![systemd](https://img.shields.io/badge/systemd-30363D?style=for-the-badge)
+![Cloudflare Tunnel](https://img.shields.io/badge/Cloudflare_Tunnel-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+![Tailscale](https://img.shields.io/badge/Tailscale-242424?style=for-the-badge&logo=tailscale&logoColor=white)
+![WireGuard](https://img.shields.io/badge/WireGuard-88171A?style=for-the-badge&logo=wireguard&logoColor=white)
+
+**Hardware**
+
+![Jetson Orin Nano](https://img.shields.io/badge/Jetson_Orin_Nano-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+![Radxa Zero 3W](https://img.shields.io/badge/Radxa_Zero_3W-30363D?style=for-the-badge)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
 
 ## Background
 
@@ -30,5 +61,3 @@ Advanced Practice Paramedic · MSc Candidate · Austere & Operational Medicine.
 Thesis work focused on AI implementation in austere and resource-limited environments.
 
 Lead in the dirt!
-
-
