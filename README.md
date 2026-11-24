@@ -30,20 +30,20 @@ I build and test deterministic-first clinical decision support: code owns every 
 
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
 ![llama.cpp](https://img.shields.io/badge/llama.cpp-30363D?style=for-the-badge)
-![MLX](https://img.shields.io/badge/MLX-30363D?style=for-the-badge)
+![MLX](https://img.shields.io/badge/-MLX-30363D?style=for-the-badge)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-30363D?style=for-the-badge)
 
 **Speech**
 
-![Whisper](https://img.shields.io/badge/Whisper-30363D?style=for-the-badge)
-![Vosk](https://img.shields.io/badge/Vosk-30363D?style=for-the-badge)
+![Whisper](https://img.shields.io/badge/-Whisper-30363D?style=for-the-badge)
+![Vosk](https://img.shields.io/badge/-Vosk-30363D?style=for-the-badge)
 ![Piper](https://img.shields.io/badge/Piper-30363D?style=for-the-badge)
 ![Kokoro](https://img.shields.io/badge/Kokoro-30363D?style=for-the-badge)
 
 **Systems and networking**
 
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![systemd](https://img.shields.io/badge/systemd-30363D?style=for-the-badge)
+![systemd](https://img.shields.io/badge/-systemd-30363D?style=for-the-badge)
 ![Cloudflare Tunnel](https://img.shields.io/badge/Cloudflare_Tunnel-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 ![Tailscale](https://img.shields.io/badge/Tailscale-242424?style=for-the-badge&logo=tailscale&logoColor=white)
 ![WireGuard](https://img.shields.io/badge/WireGuard-88171A?style=for-the-badge&logo=wireguard&logoColor=white)
@@ -51,7 +51,7 @@ I build and test deterministic-first clinical decision support: code owns every 
 **Hardware**
 
 ![Jetson Orin Nano](https://img.shields.io/badge/Jetson_Orin_Nano-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
-![Radxa Zero 3W](https://img.shields.io/badge/Radxa_Zero_3W-30363D?style=for-the-badge)
+![Radxa Zero 3W](https://img.shields.io/badge/-Radxa_Zero_3W-30363D?style=for-the-badge)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
 
 ## Background
